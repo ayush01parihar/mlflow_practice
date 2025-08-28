@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/683920470408745319/8a9b93525bee4eed9e2c46414b0b1aa5/artifacts
+end_time: 1756403064262
+entry_point_name: ''
+experiment_id: '683920470408745319'
+lifecycle_stage: active
+run_id: 8a9b93525bee4eed9e2c46414b0b1aa5
+run_name: apples_rf_test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756403051159
+status: 3
+tags: []
+user_id: ayush
